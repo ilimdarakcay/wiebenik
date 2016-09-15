@@ -62,4 +62,8 @@ body {
 		margin-right: 250px;
 		border-style: solid; border-color: #ffffff; }
 
-	a {text-decoration: none }
+	a {
+		text-decoration: none }
+
+	li {
+		color: white}
