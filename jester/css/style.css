@@ -1,0 +1,97 @@
+body {
+    background-color: green;
+}
+main {
+    background-color: lightgreen;
+    border-style: solid;
+    border-color: black;
+    margin: 0px 12.5%;
+    height: 99%;
+    display: inline-block;
+}
+nav {
+    display: inline-block;
+    width: 15%; 
+    height: 99%;
+    border-style: solid;
+    border-color: black;
+}
+#logo {
+    width: 100%;
+    height: 35%;
+}
+ul {
+    border: 3px solid black;
+    background-color: darkgreen;
+    margin: 0px 0px 395% 0px;
+}
+li {
+    padding: 2px 0px;
+    list-style: none;
+}
+a {
+    color: burlywood;
+    text-decoration: none;
+}
+a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+article {
+    float: right;
+    width: 84%;
+}
+.frontLogo {
+    width: 50%;
+    margin: 10px 20%;
+}
+
+.endlogo {
+    width: 50%;
+    margin: 20px 20%;
+}
+
+section {
+    border: 3px solid black;
+    margin: 0px 20%;
+    width: 50%;
+    height: 30%;
+    background-color: darkgreen;
+    font-family: 'Old English Text MT'
+}
+#intro {
+    text-align: center;
+}
+#menukaart {
+    float: left;
+    width: 48%;
+    margin: 0px 0px 0px 10%;
+    padding: 6% 0px;
+    text-align: center;
+}
+#menukaartimg {
+    float: right;
+    width: 36%;
+    margin: 0px 5% 0px 0px;
+}
+#contact1 {
+    margin: 0px 20%;
+    width: 50%;
+}
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+aside {
+    border: 3px solid black;
+    top: 1.2%;
+    right: 2.5%;
+    position: fixed;
+    width: 10%;
+}
+.sponsor {
+    width: 100%;
+    display: block;
+}
